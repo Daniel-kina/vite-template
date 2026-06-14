@@ -3,3 +3,4 @@ Template that includes
 -vitest
 -React Testing Library
 -jsdom
+-react router
